@@ -1,0 +1,34 @@
+/* styles.css */
+
+#hero-section {
+  background-color: #1a202c;
+  color: #fff;
+}
+
+#features-section {
+  background-color: #2d3748;
+  color: #fff;
+}
+
+#pricing-section {
+  background-color: #4a5568;
+  color: #fff;
+}
+
+#signup-section {
+  background-color: #2d3748;
+  color: #fff;
+}
+
+.hero, .features, .pricing, .signup {
+  padding: 20px;
+  margin: 10px;
+}
+
+.button {
+  background-color: #38a169;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
